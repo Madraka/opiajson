@@ -1,0 +1,18 @@
+{
+  "name": "Opia Help",
+  "short_name": "OPİA HELP",
+  "description": "People Support",
+  "icons": [
+    {
+      "src": "example.png",
+      "sizes": "512x512",
+      "type": "image\/png"
+    }
+  ],
+  "background_color": "#D5E0EB",
+  "theme_color": "#D5E0EB",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "admin.php",
+  "scope": ""
+}
