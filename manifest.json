@@ -1,10 +1,40 @@
 {
-  "name": "Opia Help",
-  "short_name": "OPİA HELP",
-  "description": "People Support",
+  "name": "Opia Chat",
+  "short_name": "Customer Chat Opia",
+  "description": "Opia Smart Chat for Better Support and Marketing",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/Madraka/opiajson/main/opia_512x512.png",
+      "src": "icons/icon-44x44.png",
+      "sizes": "44x44",
+      "type": "image\/png"
+    },
+    {
+      "src": "icons/icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image\/png"
+    },
+    {
+      "src": "icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image\/png"
+    },
+    {
+      "src": "icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image\/png"
+    },
+    {
+      "src": "icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image\/png"
+    },
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image\/png"
     }
@@ -13,6 +43,6 @@
   "theme_color": "#D5E0EB",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "admin.php",
-  "scope": ""
+  "start_url": "../../admin.php",
+  "scope": "../../"
 }
