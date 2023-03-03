@@ -4,7 +4,7 @@
   "description": "People Support",
   "icons": [
     {
-      "src": "example.png",
+      "src": "https://raw.githubusercontent.com/Madraka/opiajson/main/opia_512x512.png",
       "sizes": "512x512",
       "type": "image\/png"
     }
